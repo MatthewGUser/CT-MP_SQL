@@ -5,13 +5,13 @@ Welcome to the Library Management System! This is a command-line-based Python ap
 The project is structured into multiple Python files to ensure clean code organization and maintainability. It includes robust error handling and input validation to provide a smooth user experience.
 
 ## Features
-* *Book Operations:* Add, borrow, return, search, and display books.
-* *User Management:* Add new users, view user details, and display all users.
-* *Author Management:* Add new authors, view author details, and display all authors.
-* *Database Integration:* Utilizes a MySQL database to store and manage data related to books, users, and authors.
-* *User-Friendly CLI:* Simple and intuitive menu-driven interface.
-* *Input Validation:* Ensures that user inputs are in the correct format.
-* *Error Handling:* Graceful handling of invalid input and database-related errors.
+* **Book Operations:** Add, borrow, return, search, and display books.
+* **User Management:** Add new users, view user details, and display all users.
+* **Author Management:** Add new authors, view author details, and display all authors.
+* **Database Integration:** Utilizes a MySQL database to store and manage data related to books, users, and authors.
+* **User-Friendly CLI:** Simple and intuitive menu-driven interface.
+* **Input Validation:** Ensures that user inputs are in the correct format.
+* **Error Handling:** Graceful handling of invalid input and database-related errors.
 ## File Structure
 This project is organized across multiple files to improve readability and code management.
 Here’s a breakdown of the key files:
