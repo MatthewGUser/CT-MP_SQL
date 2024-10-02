@@ -77,7 +77,6 @@ SELECT * FROM authors;
 SELECT * FROM books;
 SELECT * FROM borrowed_books;
 SELECT * FROM users;
-
 ```
 ## Example Usage
 Here’s a sample interaction with the Library Management System:
